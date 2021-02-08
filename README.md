@@ -7,7 +7,7 @@ Available here: https://search-27926.web.app/
 
 ```sh
 # 1. Clone the repository.
-git clone git@bitbucket.org:telmaantunes/search-exercise.git
+git clone git@github.com:telmaantunes/search-exercise.git
 
 # 2. Enter your newly-cloned folder
 cd search-exercise
@@ -37,6 +37,3 @@ make lint
 ```
 make build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
