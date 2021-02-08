@@ -1,23 +1,41 @@
 # search-exercise
 
+> This is the SPA of a simple search exercise made with Vue.js.
+Available here: https://search-27926.web.app/
+
+## Getting started
+
+```sh
+# 1. Clone the repository.
+git clone git@bitbucket.org:telmaantunes/search-exercise.git
+
+# 2. Enter your newly-cloned folder
+cd search-exercise
+```
+
 ## Project setup
 ```
-yarn install
+make install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+make serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+make build
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+make lint
+```
+
+### Deploy project to firebase (prior login)
+```
+make build
 ```
 
 ### Customize configuration
